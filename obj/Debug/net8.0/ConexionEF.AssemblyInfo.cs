@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConexionEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d18ae8bea03599009045118fb6ae45592484066")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConexionEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConexionEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
